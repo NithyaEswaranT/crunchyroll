@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* .nav{
+    text-decoration: none;
+    list-style-type: none;
+    color: rgb(243, 242, 242);
+    padding: 2px;
+    background-color:rgb(37, 35, 35);
+  } */
+  /* li{
+    font-size:16px;
+    display: inline;
+    margin-left: 27px;
+  } */
+  .logo{
+    color:rgb(238, 87, 18);
+    font-weight: 900;
+    font-size: 21px;
+  }
